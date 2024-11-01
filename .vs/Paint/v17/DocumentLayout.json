@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\PaintEstructura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{258264D1-4918-4DF5-BC9B-70F0A9E5BCC5}|Paint\\Paint.csproj|c:\\users\\hp\\downloads\\paintestructura\\paint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{258264D1-4918-4DF5-BC9B-70F0A9E5BCC5}|Paint\\Paint.csproj|solutionrelative:paint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\PaintEstructura\\Paint\\Form1.cs",
+              "RelativeDocumentMoniker": "Paint\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\PaintEstructura\\Paint\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Paint\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:32:12.299Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
